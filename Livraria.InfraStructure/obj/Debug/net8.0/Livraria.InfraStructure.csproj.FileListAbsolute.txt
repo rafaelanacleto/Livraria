@@ -1,0 +1,15 @@
+C:\repos\Livraria\Livraria.InfraStructure\bin\Debug\net8.0\Livraria.InfraStructure.deps.json
+C:\repos\Livraria\Livraria.InfraStructure\bin\Debug\net8.0\Livraria.InfraStructure.dll
+C:\repos\Livraria\Livraria.InfraStructure\bin\Debug\net8.0\Livraria.InfraStructure.pdb
+C:\repos\Livraria\Livraria.InfraStructure\bin\Debug\net8.0\Livraria.Domain.dll
+C:\repos\Livraria\Livraria.InfraStructure\bin\Debug\net8.0\Livraria.Domain.pdb
+C:\repos\Livraria\Livraria.InfraStructure\obj\Debug\net8.0\Livraria.InfraStructure.csproj.AssemblyReference.cache
+C:\repos\Livraria\Livraria.InfraStructure\obj\Debug\net8.0\Livraria.InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Livraria\Livraria.InfraStructure\obj\Debug\net8.0\Livraria.InfraStructure.AssemblyInfoInputs.cache
+C:\repos\Livraria\Livraria.InfraStructure\obj\Debug\net8.0\Livraria.InfraStructure.AssemblyInfo.cs
+C:\repos\Livraria\Livraria.InfraStructure\obj\Debug\net8.0\Livraria.InfraStructure.csproj.CoreCompileInputs.cache
+C:\repos\Livraria\Livraria.InfraStructure\obj\Debug\net8.0\Livraria.A5AF4B65.Up2Date
+C:\repos\Livraria\Livraria.InfraStructure\obj\Debug\net8.0\Livraria.InfraStructure.dll
+C:\repos\Livraria\Livraria.InfraStructure\obj\Debug\net8.0\refint\Livraria.InfraStructure.dll
+C:\repos\Livraria\Livraria.InfraStructure\obj\Debug\net8.0\Livraria.InfraStructure.pdb
+C:\repos\Livraria\Livraria.InfraStructure\obj\Debug\net8.0\ref\Livraria.InfraStructure.dll

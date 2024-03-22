@@ -1,0 +1,15 @@
+C:\repos\Livraria\Livraria.Application\bin\Debug\net8.0\Livraria.Application.deps.json
+C:\repos\Livraria\Livraria.Application\bin\Debug\net8.0\Livraria.Application.dll
+C:\repos\Livraria\Livraria.Application\bin\Debug\net8.0\Livraria.Application.pdb
+C:\repos\Livraria\Livraria.Application\bin\Debug\net8.0\Livraria.Domain.dll
+C:\repos\Livraria\Livraria.Application\bin\Debug\net8.0\Livraria.Domain.pdb
+C:\repos\Livraria\Livraria.Application\obj\Debug\net8.0\Livraria.Application.csproj.AssemblyReference.cache
+C:\repos\Livraria\Livraria.Application\obj\Debug\net8.0\Livraria.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Livraria\Livraria.Application\obj\Debug\net8.0\Livraria.Application.AssemblyInfoInputs.cache
+C:\repos\Livraria\Livraria.Application\obj\Debug\net8.0\Livraria.Application.AssemblyInfo.cs
+C:\repos\Livraria\Livraria.Application\obj\Debug\net8.0\Livraria.Application.csproj.CoreCompileInputs.cache
+C:\repos\Livraria\Livraria.Application\obj\Debug\net8.0\Livraria.422A9370.Up2Date
+C:\repos\Livraria\Livraria.Application\obj\Debug\net8.0\Livraria.Application.dll
+C:\repos\Livraria\Livraria.Application\obj\Debug\net8.0\refint\Livraria.Application.dll
+C:\repos\Livraria\Livraria.Application\obj\Debug\net8.0\Livraria.Application.pdb
+C:\repos\Livraria\Livraria.Application\obj\Debug\net8.0\ref\Livraria.Application.dll
