@@ -1,33 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/home/rafael/code/Livraria/Livraria.Application/Livraria.Application.csproj": {}
+    "C:\\repos\\Livraria\\Livraria.Application\\Livraria.Application.csproj": {}
   },
   "projects": {
-    "/home/rafael/code/Livraria/Livraria.Application/Livraria.Application.csproj": {
+    "C:\\repos\\Livraria\\Livraria.Application\\Livraria.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rafael/code/Livraria/Livraria.Application/Livraria.Application.csproj",
+        "projectUniqueName": "C:\\repos\\Livraria\\Livraria.Application\\Livraria.Application.csproj",
         "projectName": "Livraria.Application",
-        "projectPath": "/home/rafael/code/Livraria/Livraria.Application/Livraria.Application.csproj",
-        "packagesPath": "/home/rafael/.nuget/packages/",
-        "outputPath": "/home/rafael/code/Livraria/Livraria.Application/obj/",
+        "projectPath": "C:\\repos\\Livraria\\Livraria.Application\\Livraria.Application.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\Livraria\\Livraria.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/rafael/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/rafael/code/Livraria/Livraria.Domain/Livraria.Domain.csproj": {
-                "projectPath": "/home/rafael/code/Livraria/Livraria.Domain/Livraria.Domain.csproj"
+              "C:\\repos\\Livraria\\Livraria.Domain\\Livraria.Domain.csproj": {
+                "projectPath": "C:\\repos\\Livraria\\Livraria.Domain\\Livraria.Domain.csproj"
               }
             }
           }
@@ -36,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -57,26 +64,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/rafael/code/Livraria/Livraria.Domain/Livraria.Domain.csproj": {
+    "C:\\repos\\Livraria\\Livraria.Domain\\Livraria.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rafael/code/Livraria/Livraria.Domain/Livraria.Domain.csproj",
+        "projectUniqueName": "C:\\repos\\Livraria\\Livraria.Domain\\Livraria.Domain.csproj",
         "projectName": "Livraria.Domain",
-        "projectPath": "/home/rafael/code/Livraria/Livraria.Domain/Livraria.Domain.csproj",
-        "packagesPath": "/home/rafael/.nuget/packages/",
-        "outputPath": "/home/rafael/code/Livraria/Livraria.Domain/obj/",
+        "projectPath": "C:\\repos\\Livraria\\Livraria.Domain\\Livraria.Domain.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\Livraria\\Livraria.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/rafael/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -89,6 +98,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -110,7 +124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

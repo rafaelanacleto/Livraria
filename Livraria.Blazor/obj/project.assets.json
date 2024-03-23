@@ -83,32 +83,34 @@
     ]
   },
   "packageFolders": {
-    "/home/rafael/.nuget/packages/": {}
+    "C:\\Users\\rafae\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rafael/code/Livraria/Livraria.Blazor/Livraria.Blazor.csproj",
+      "projectUniqueName": "C:\\repos\\Livraria\\Livraria.Blazor\\Livraria.Blazor.csproj",
       "projectName": "Livraria.Blazor",
-      "projectPath": "/home/rafael/code/Livraria/Livraria.Blazor/Livraria.Blazor.csproj",
-      "packagesPath": "/home/rafael/.nuget/packages/",
-      "outputPath": "/home/rafael/code/Livraria/Livraria.Blazor/obj/",
+      "projectPath": "C:\\repos\\Livraria\\Livraria.Blazor\\Livraria.Blazor.csproj",
+      "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+      "outputPath": "C:\\repos\\Livraria\\Livraria.Blazor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/rafael/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/rafael/code/Livraria/Livraria.CrossCutting/Livraria.CrossCutting.csproj": {
-              "projectPath": "/home/rafael/code/Livraria/Livraria.CrossCutting/Livraria.CrossCutting.csproj"
+            "C:\\repos\\Livraria\\Livraria.CrossCutting\\Livraria.CrossCutting.csproj": {
+              "projectPath": "C:\\repos\\Livraria\\Livraria.CrossCutting\\Livraria.CrossCutting.csproj"
             }
           }
         }
@@ -117,6 +119,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -141,7 +148,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
