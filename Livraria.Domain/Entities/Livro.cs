@@ -22,7 +22,11 @@ namespace Livraria.Domain.Entities
         [Required(ErrorMessage = "Informe a imagem capa do livro")]
         [StringLength(220)]
         public string? Capa { get; set; }
+        [Required]
+        [EnumDataType(typeof(Editora), ErrorMessage = "Editora Inválida")]
         public Editora Editora { get; set; }
+        [Required]
+        [EnumDataType(typeof(Categoria), ErrorMessage = "Categoria Inválida")]
         public Categoria Categoria { get; set; }
 
         public Livro(int livroId, string? titulo, string? autor, DateTime lancamento, string? capa, Editora editora, Categoria categoria)

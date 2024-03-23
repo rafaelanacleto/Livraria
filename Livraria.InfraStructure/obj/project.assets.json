@@ -27,7 +27,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rafael.anacleto\\.nuget\\packages\\": {}
+    "C:\\Users\\rafae\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -35,11 +35,11 @@
       "projectUniqueName": "C:\\repos\\Livraria\\Livraria.InfraStructure\\Livraria.InfraStructure.csproj",
       "projectName": "Livraria.InfraStructure",
       "projectPath": "C:\\repos\\Livraria\\Livraria.InfraStructure\\Livraria.InfraStructure.csproj",
-      "packagesPath": "C:\\Users\\rafael.anacleto\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
       "outputPath": "C:\\repos\\Livraria\\Livraria.InfraStructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rafael.anacleto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -89,7 +89,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
