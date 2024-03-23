@@ -37,3 +37,4 @@ C:\repos\Livraria\Livraria.Blazor\obj\Debug\net8.0\refint\Livraria.Blazor.dll
 C:\repos\Livraria\Livraria.Blazor\obj\Debug\net8.0\Livraria.Blazor.pdb
 C:\repos\Livraria\Livraria.Blazor\obj\Debug\net8.0\Livraria.Blazor.genruntimeconfig.cache
 C:\repos\Livraria\Livraria.Blazor\obj\Debug\net8.0\ref\Livraria.Blazor.dll
+C:\repos\Livraria\Livraria.Blazor\obj\Debug\net8.0\Livraria.Blazor.sourcelink.json

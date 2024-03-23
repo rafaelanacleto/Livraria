@@ -13,3 +13,4 @@ C:\repos\Livraria\Livraria.InfraStructure\obj\Debug\net8.0\Livraria.InfraStructu
 C:\repos\Livraria\Livraria.InfraStructure\obj\Debug\net8.0\refint\Livraria.InfraStructure.dll
 C:\repos\Livraria\Livraria.InfraStructure\obj\Debug\net8.0\Livraria.InfraStructure.pdb
 C:\repos\Livraria\Livraria.InfraStructure\obj\Debug\net8.0\ref\Livraria.InfraStructure.dll
+C:\repos\Livraria\Livraria.InfraStructure\obj\Debug\net8.0\Livraria.InfraStructure.sourcelink.json

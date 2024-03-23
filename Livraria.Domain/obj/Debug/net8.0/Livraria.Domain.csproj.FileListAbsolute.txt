@@ -9,3 +9,4 @@ C:\repos\Livraria\Livraria.Domain\obj\Debug\net8.0\Livraria.Domain.dll
 C:\repos\Livraria\Livraria.Domain\obj\Debug\net8.0\refint\Livraria.Domain.dll
 C:\repos\Livraria\Livraria.Domain\obj\Debug\net8.0\Livraria.Domain.pdb
 C:\repos\Livraria\Livraria.Domain\obj\Debug\net8.0\ref\Livraria.Domain.dll
+C:\repos\Livraria\Livraria.Domain\obj\Debug\net8.0\Livraria.Domain.sourcelink.json

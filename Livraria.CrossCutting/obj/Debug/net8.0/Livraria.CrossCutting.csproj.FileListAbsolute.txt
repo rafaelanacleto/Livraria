@@ -17,3 +17,4 @@ C:\repos\Livraria\Livraria.CrossCutting\obj\Debug\net8.0\Livraria.CrossCutting.d
 C:\repos\Livraria\Livraria.CrossCutting\obj\Debug\net8.0\refint\Livraria.CrossCutting.dll
 C:\repos\Livraria\Livraria.CrossCutting\obj\Debug\net8.0\Livraria.CrossCutting.pdb
 C:\repos\Livraria\Livraria.CrossCutting\obj\Debug\net8.0\ref\Livraria.CrossCutting.dll
+C:\repos\Livraria\Livraria.CrossCutting\obj\Debug\net8.0\Livraria.CrossCutting.sourcelink.json

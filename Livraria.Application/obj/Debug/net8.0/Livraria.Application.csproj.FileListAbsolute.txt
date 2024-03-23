@@ -13,3 +13,4 @@ C:\repos\Livraria\Livraria.Application\obj\Debug\net8.0\Livraria.Application.dll
 C:\repos\Livraria\Livraria.Application\obj\Debug\net8.0\refint\Livraria.Application.dll
 C:\repos\Livraria\Livraria.Application\obj\Debug\net8.0\Livraria.Application.pdb
 C:\repos\Livraria\Livraria.Application\obj\Debug\net8.0\ref\Livraria.Application.dll
+C:\repos\Livraria\Livraria.Application\obj\Debug\net8.0\Livraria.Application.sourcelink.json
