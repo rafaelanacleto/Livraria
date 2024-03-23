@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bAPauBLu1i+kONDKuFQKQ2grO1iVcr/KeBwXIeQ2PQzcrLNf1/lcLtua5OxCY+5IuTo1J7TiilhCJlZUMteZDA==",
+  "dgSpecHash": "FifoZ8hXKfHaWHUhXGxSdwhUVRHFW9mv/8S5BhGownZ0gdIVpzvBNfMHPIhZiiCnGf7IRMg4bzo0RK+d3WeU4A==",
   "success": true,
-  "projectFilePath": "C:\\repos\\Livraria\\Livraria.Blazor\\Livraria.Blazor.csproj",
+  "projectFilePath": "/home/rafael/code/Livraria/Livraria.Blazor/Livraria.Blazor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

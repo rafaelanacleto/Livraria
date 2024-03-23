@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\Livraria\\Livraria.Domain\\Livraria.Domain.csproj": {}
+    "/home/rafael/code/Livraria/Livraria.Domain/Livraria.Domain.csproj": {}
   },
   "projects": {
-    "C:\\repos\\Livraria\\Livraria.Domain\\Livraria.Domain.csproj": {
+    "/home/rafael/code/Livraria/Livraria.Domain/Livraria.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\Livraria\\Livraria.Domain\\Livraria.Domain.csproj",
+        "projectUniqueName": "/home/rafael/code/Livraria/Livraria.Domain/Livraria.Domain.csproj",
         "projectName": "Livraria.Domain",
-        "projectPath": "C:\\repos\\Livraria\\Livraria.Domain\\Livraria.Domain.csproj",
-        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\Livraria\\Livraria.Domain\\obj\\",
+        "projectPath": "/home/rafael/code/Livraria/Livraria.Domain/Livraria.Domain.csproj",
+        "packagesPath": "/home/rafael/.nuget/packages/",
+        "outputPath": "/home/rafael/code/Livraria/Livraria.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/rafael/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

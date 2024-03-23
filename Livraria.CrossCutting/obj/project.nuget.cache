@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OEdIvvuB5uR0YNVjbV/6tjAuVWKZECC3s84Mnby4Ik8MIq6CE7/7x6vwjIVrzMwuP4UJlg7bFeKHnKHAv1m02w==",
+  "dgSpecHash": "+WLxuCkOxiUxaoNEzPsMaN8SJw+2/d3dGmdCgO5iPjcOEqrwr4md1N2emdzceLIlQmnIIqeCPhrynTP1qrPX2w==",
   "success": true,
-  "projectFilePath": "C:\\repos\\Livraria\\Livraria.CrossCutting\\Livraria.CrossCutting.csproj",
+  "projectFilePath": "/home/rafael/code/Livraria/Livraria.CrossCutting/Livraria.CrossCutting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

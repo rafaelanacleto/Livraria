@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QNtIWNSFOuOwAmvJlvjibOAIQuWieCGme+fsmkG61MlGaK/Iq3Va1cE3j1SrHcjL5/X0Uooz0vQ0qz8+3ZJ5qg==",
+  "dgSpecHash": "AO7BTEyv9ZEw2CMTRjlqZekxyZtgB828bX7pDSpRQEik5Nh82VSQbRy0IHWljG0FDg6Fm0VHwIJP92gWYfVNBg==",
   "success": true,
-  "projectFilePath": "C:\\repos\\Livraria\\Livraria.InfraStructure\\Livraria.InfraStructure.csproj",
+  "projectFilePath": "/home/rafael/code/Livraria/Livraria.InfraStructure/Livraria.InfraStructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
