@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Livraria.CrossCutting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f59e5240dadc453ee83b302ab70685399f5f170")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f208a7f8ac41616e6a1a2ffc442c3e81117e069a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Livraria.CrossCutting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Livraria.CrossCutting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

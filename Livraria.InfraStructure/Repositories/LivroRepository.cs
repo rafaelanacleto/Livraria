@@ -1,5 +1,7 @@
 using Livraria.Domain.Abstractions;
 using Livraria.Domain.Entities;
+using Livraria.InfraStructure.Context;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,34 +11,76 @@ namespace Livraria.InfraStructure.Repositories
 {
     public class LivroRepository : ILivroRepository
     {
-        public Task<Livro> AdcionarLivro(Livro livro)
+
+        private ApplicationDbContext _context;
+
+        public LivroRepository(ApplicationDbContext context)
         {
-            throw new NotImplementedException();
+            _context = context;
         }
 
-        public Task AtualizaLivro(Livro livro)
+        public async Task<Livro> AdcionarLivro(Livro livro)
         {
-            throw new NotImplementedException();
+            if(_context is not null && livro is not null && _context.Livros is not null)
+            {
+                _context.Livros.Add(livro);
+                await _context.SaveChangesAsync();
+                return livro;
+            }
+            else
+            {
+                throw new InvalidOperationException("Dados Inválidos...");
+            }
         }
 
-        public Task DeletarLivro(int id)
+        public async Task AtualizaLivro(Livro livro)
         {
-            throw new NotImplementedException();
+            if (livro is not null)
+            {
+                _context.Entry(livro).State = EntityState.Modified;
+                await _context.SaveChangesAsync();
+            }
         }
 
-        public Task<List<Livro>> GetAll()
+        public async Task DeletarLivro(int id)
         {
-            throw new NotImplementedException();
+            var livro = _context.Livros.FirstOrDefault(l => l.LivroId ==  id);
+
+            if(livro is not null)
+                _context.Remove(livro);
+            await _context.SaveChangesAsync();
         }
 
-        public Task<Livro?> GetById(int id)
+        public async Task<List<Livro>> GetAll()
         {
-            throw new NotImplementedException();
+            if (_context is not null && _context.Livros is not null)
+            {
+                var livros = await _context.Livros.ToListAsync();
+                return livros;
+            }
+            else
+            {
+                return new List<Livro>();
+            }
         }
 
-        public Task<Livro?> GetByName(string name)
+        public async Task<Livro?> GetById(int id)
         {
-            throw new NotImplementedException();
+            var livro = await _context.Livros.FirstOrDefaultAsync(l => l.LivroId == id);
+
+            if (livro == null)
+                throw new InvalidOperationException("Dados Inválidos....");
+            return livro;
+        }
+
+        public async Task<Livro?> GetByName(string name)
+        {
+            var livro = await _context.Livros.FindAsync(_context.Livros, name);
+
+            if (livro == null)
+                throw new InvalidOperationException("Dados Inválidos....");
+
+            return livro;
         }
     }
 }
