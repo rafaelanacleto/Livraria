@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\repos\\Livraria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB9967B1-2F4A-4850-990C-76F4DC7B49EF}|Livraria.Domain\\Livraria.Domain.csproj|c:\\repos\\livraria\\livraria.domain\\entities\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB9967B1-2F4A-4850-990C-76F4DC7B49EF}|Livraria.Domain\\Livraria.Domain.csproj|solutionrelative:livraria.domain\\entities\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A221AE49-A3BC-49BF-BF21-DE869D1E9566}|Livraria.InfraStructure\\Livraria.InfraStructure.csproj|c:\\repos\\livraria\\livraria.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A221AE49-A3BC-49BF-BF21-DE869D1E9566}|Livraria.InfraStructure\\Livraria.InfraStructure.csproj|solutionrelative:livraria.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A221AE49-A3BC-49BF-BF21-DE869D1E9566}|Livraria.InfraStructure\\Livraria.InfraStructure.csproj|c:\\repos\\livraria\\livraria.infrastructure\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A221AE49-A3BC-49BF-BF21-DE869D1E9566}|Livraria.InfraStructure\\Livraria.InfraStructure.csproj|solutionrelative:livraria.infrastructure\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A221AE49-A3BC-49BF-BF21-DE869D1E9566}|Livraria.InfraStructure\\Livraria.InfraStructure.csproj|c:\\repos\\livraria\\livraria.infrastructure\\entitiesconfiguration\\livrariaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A221AE49-A3BC-49BF-BF21-DE869D1E9566}|Livraria.InfraStructure\\Livraria.InfraStructure.csproj|solutionrelative:livraria.infrastructure\\entitiesconfiguration\\livrariaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Livro.cs",
-              "DocumentMoniker": "C:\\repos\\Livraria\\Livraria.Domain\\Entities\\Livro.cs",
-              "RelativeDocumentMoniker": "Livraria.Domain\\Entities\\Livro.cs",
-              "ToolTip": "C:\\repos\\Livraria\\Livraria.Domain\\Entities\\Livro.cs",
-              "RelativeToolTip": "Livraria.Domain\\Entities\\Livro.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAkwB4AAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "LivroRepository.cs",
+              "DocumentMoniker": "C:\\repos\\Livraria\\Livraria.InfraStructure\\Repositories\\LivroRepository.cs",
+              "RelativeDocumentMoniker": "Livraria.InfraStructure\\Repositories\\LivroRepository.cs",
+              "ToolTip": "C:\\repos\\Livraria\\Livraria.InfraStructure\\Repositories\\LivroRepository.cs",
+              "RelativeToolTip": "Livraria.InfraStructure\\Repositories\\LivroRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T21:13:39.227Z",
+              "WhenOpened": "2024-03-24T20:24:11.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LivrariaConfiguration.cs",
+              "DocumentMoniker": "C:\\repos\\Livraria\\Livraria.InfraStructure\\EntitiesConfiguration\\LivrariaConfiguration.cs",
+              "RelativeDocumentMoniker": "Livraria.InfraStructure\\EntitiesConfiguration\\LivrariaConfiguration.cs",
+              "ToolTip": "C:\\repos\\Livraria\\Livraria.InfraStructure\\EntitiesConfiguration\\LivrariaConfiguration.cs",
+              "RelativeToolTip": "Livraria.InfraStructure\\EntitiesConfiguration\\LivrariaConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T20:24:09.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\repos\\Livraria\\Livraria.InfraStructure\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Livraria.InfraStructure\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\repos\\Livraria\\Livraria.InfraStructure\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Livraria.InfraStructure\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T20:24:06.767Z",
               "EditorCaption": ""
             }
           ]
